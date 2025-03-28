@@ -4,11 +4,11 @@
 ---
 
 
-# Coisas de shellscript 
+# ShellScript things 
 
-### CCC. Compilador c e executador de programas - [doc](https://github.com/4lysson-a/c_compiler/)
+### CCC. Compiler and exec programs in c - [doc](https://github.com/4lysson-a/c_compiler/)
 
-### Webaap. Crie um app desktop de um site da web - [doc](https://github.com/4lysson-a/Webaap/)
+### Webaap. Create a desktop app from web - [doc](https://github.com/4lysson-a/Webaap/)
 
-### Clone. Script para clonar facilmente qualquer repo do github - [doc](https://github.com/4lysson-a/shellscript_library/tree/master/clone)
+### Clone. Easily clone any repo from github - [doc](https://github.com/4lysson-a/shellscript_library/tree/master/clone)
 
