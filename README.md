@@ -1,5 +1,5 @@
 > [!WARNING]  
-> This is an old project, made for study purposes only. Because of this, it may contain several inconsistencies in its code base, or broken things like links and images.
+> 👷 This is an old project, made for study purposes only. Because of this, it may contain several inconsistencies in its code base, or broken things like links and images. Code examples may not follow best practices for production environments.
 
 ---
 
